@@ -311,6 +311,15 @@ corresponding to the form that you would like
 snippet to get you there.
 </P>
 
+<P>
+I have some measure of confidence in the correctness since
+the table, indeed, this entire post, was created by a script
+which tested the code shown in the table and lists below.
+That script is available
+<a href="https://github.com/marksantesson/web/blob/master/datetime.py">here</a>.
+However, I expect that many of the conversions can be improved upon
+and many may be subtly, or not so subtly, incorrect.
+</P>
 
 <ul>
 <li>"dt" represents an input datetime.</li>
